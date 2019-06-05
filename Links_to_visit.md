@@ -1,3 +1,4 @@
 * https://github.com/rstudio/shiny-examples/tree/master/018-datatable-options
 * https://shiny.rstudio.com/gallery/datatables-options.html
+* https://medium.com/@CharlesBordet/how-to-deploy-a-shiny-app-on-aws-part-1-4893d0a7432f
 * 
