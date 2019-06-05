@@ -4,3 +4,5 @@
 * https://stackoverflow.com/questions/26799722/hosting-and-setting-up-own-shiny-apps-without-shiny-server
 * https://towardsdatascience.com/how-to-host-a-r-shiny-app-on-aws-cloud-in-7-simple-steps-5595e7885722
 * https://statistics.berkeley.edu/computing/shiny
+* http://abiyug.github.io/2016-04-05-shiny-web-app-hosting-on-github
+* 
