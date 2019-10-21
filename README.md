@@ -4,7 +4,7 @@
 
 # RATIONALE #
 
-* Bibliographical data arranged to be queried over a shiny app
+* Bibliographical data arranged to be queried over a [shiny](https://www.shinyapps.io/) app
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
