@@ -43,11 +43,12 @@
 ### Contribution guidelines ###
 
 * Writing tests
-    - 
+    - Install [R](https://cran.r-project.org/mirrors.html)
+    - Install [Hyper](https://hyper.is/): this is a `console` app (`Terminal` in MacOSX operating system, `command` on Windows environments, _time-saver-logger_ of code commands with a lot of plugins and diverse enhancements
 * Code review
-    - 
+    - Just follow our code guidelines
 * Other guidelines
-    - 
+    - We are not fostering other guidelines. Simplicity is a must across all the process & procedure
 
 ### Who do I talk to? ###
 
