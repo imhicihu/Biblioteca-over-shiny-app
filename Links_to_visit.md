@@ -7,3 +7,4 @@
 * http://abiyug.github.io/2016-04-05-shiny-web-app-hosting-on-github
 * [Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
 * [Hosting shiny on amazon EC2](deprecated!)
+* [ShinyProxy](https://www.shinyproxy.io/): shiny apps running under a proxy server (take a look!)
