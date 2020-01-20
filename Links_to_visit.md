@@ -8,3 +8,4 @@
 * [Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
 * [Hosting shiny on amazon EC2](deprecated!)
 * [ShinyProxy](https://www.shinyproxy.io/): shiny apps running under a proxy server (take a look!)
+* [StaticGen](https://www.staticgen.com/) // sinergy between Gatsby & Hugo (recipes). Made by Netlify
