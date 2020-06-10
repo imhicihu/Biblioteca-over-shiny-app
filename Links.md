@@ -1,1 +1,2 @@
-* https://shiny.rstudio.com/gallery/datatables-demo.html
+* Tables & searcher digital assets: https://shiny.rstudio.com/gallery/datatables-demo.html
+* Authoring Books and Technical Documents with R Markdown https://bookdown.org / https://github.com/rstudio/bookdown
