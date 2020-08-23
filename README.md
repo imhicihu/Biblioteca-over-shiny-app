@@ -16,17 +16,15 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - [R Studio](https://rstudio.com/products/rstudio/)
 * Configuration
-    - 
+    - _In the making_. Further updates expected
 * Dependencies
-    - 
+    - Node.js
 * Database configuration
-    - 
-* How to run tests
-    - 
+    - In the making
 * Deployment instructions
-    - 
+    - _In the making_: updates expected
 
 ### Source ###
 
