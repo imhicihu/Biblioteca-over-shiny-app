@@ -4,3 +4,5 @@
         - [Flat UI colors](https://flatuicolors.com/)
 * Table converter
      - [Table convert](https://tableconvert.com/): converter to a plethora of formats
+* Data validator
+     - [Goodtables](https://goodtables.io/): frictionless tool to validate data, particularly spreadsheets
