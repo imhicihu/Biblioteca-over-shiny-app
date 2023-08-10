@@ -1,9 +1,9 @@
-## Tech insights
+### Tech insights
 * check this formulae:  https://github.com/ColumbusCollaboratory/electron-quick-start 
 * then check this [issue](https://github.com/romanhaa/Cerebro/issues/17)
 
-## Tutorial
+### Tutorial
 * https://calendly.com/
 
-## Mobile framework
+### Mobile framework
 * [shinyMobile](https://rinterface.github.io/shinyMobile/)
