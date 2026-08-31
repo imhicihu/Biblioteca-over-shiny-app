@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de Biblioteca-over-shiny-app"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Biblioteca-over-shiny-app" weight="320" height="320"/>
 </p>
 
 ---
