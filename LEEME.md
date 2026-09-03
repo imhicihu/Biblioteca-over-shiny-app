@@ -7,7 +7,7 @@
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 ![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
-## Justificación # [Rationale](README.md)
+## Justificación / [Rationale](README.md)
 
 * Datos bibliográficos organizados para poder consultarlos a través de una aplicación [Shiny](https://www.shinyapps.io/)
 * Este repositorio es un documento en constante evolución que irá creciendo y adaptándose con el tiempo
